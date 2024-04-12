@@ -1,5 +1,5 @@
 // Link: https://codeforces.com/problemset/problem/50/A
-// 30ms / 0kb 
+// 30ms / 0kb   
 
 
 #include <iostream>
